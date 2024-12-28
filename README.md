@@ -13,4 +13,4 @@ This is a simple and user-friendly Recipe Platform that allows users to manage t
   
 ## Technologies Used
 
-HTML, CSS, JS, PHP, MySQL
+HTML, CSS, JavaScript, PHP, MySQL
