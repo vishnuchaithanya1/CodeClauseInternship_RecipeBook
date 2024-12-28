@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a simple and user-friendly Recipe Platform that allows users to manage their recipes. Users can add new recipes, edit existing ones, delete unwanted recipes, and view a gallery of all their culinary creations. It's built with a responsive design for seamless use on all devices.
+This is a simple and user-friendly online Recipe Book that allows users to manage their recipes. Users can add new recipes, edit existing ones, delete unwanted recipes, and view a gallery of all their culinary creations. It's built with a responsive design for seamless use on all devices.
 
 ## Features
 
