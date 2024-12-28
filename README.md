@@ -1,1 +1,2 @@
-# CodeClauseInternship_RecipeBook
+# Recipe Book
+Web app for storing and displaying recipes.
